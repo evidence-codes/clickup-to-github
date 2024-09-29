@@ -1,0 +1,16 @@
+{
+  "name": "clickup-to-github",
+  "version": "1.0.0",
+  "description": "A script to translate Clickup tasks to Github issues",
+  "main": "clickup-to-github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "clickup-to-github.js",
+  "author": "Evidence Adejuwon",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^11.1.0"
+  }
+}
